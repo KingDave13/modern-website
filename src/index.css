@@ -138,11 +138,6 @@
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(4px)
 }
-@media screen and (min-width:768px) {
-  .sticky-navbar {
-    visibility: hidden;
-  }
-}
 
 
 .grow {
